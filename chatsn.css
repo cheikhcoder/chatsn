@@ -1,0 +1,9 @@
+iframe {
+    display: block; /* Assurez-vous que l'iframe est un bloc pour pouvoir définir une marge */
+    margin: 100px auto; /* Définissez une marge automatique sur les côtés gauche et droit */
+    
+  }
+*{
+    background-color: gray;
+
+}
